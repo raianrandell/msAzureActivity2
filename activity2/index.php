@@ -12,20 +12,6 @@
     background-color: #235534;
     color: #FFFFFF;
 }
-@media only screen and (max-width: 600px) {
-    /* Adjust styles for screens with a maximum width of 600 pixels (typical for mobile phones) */
-    img {
-        width: 50%;
-    }
-
-    input {
-        width: 80%;
-    }
-
-    #calculate,
-    #clear {
-        width: 80%;
-    }
 
 img {
     margin-top: 2%;
