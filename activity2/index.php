@@ -12,26 +12,7 @@
     background-color: #235534;
     color: #FFFFFF;
 }
-/* Your existing styles here */
 
-@media screen and (max-width: 576px) {
-  /* CSS rules for mobile devices */
-
-  h2 {
-    font-size: 1.2rem; /* Adjust font size for better readability on small screens */
-  }
-
-  input {
-    width: 80%; /* Make the input fields wider for better usability on small screens */
-    margin-bottom: 10px; /* Add some space between input fields */
-  }
-
-  #calculate,
-  #clear {
-    width: 80%; /* Make the buttons wider for better usability on small screens */
-    margin-top: 10px; /* Add some space between buttons */
-  }
-}
 img {
     margin-top: 2%;
     width: 25%;
