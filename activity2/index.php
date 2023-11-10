@@ -107,14 +107,14 @@ input {
 }
 
 @media only screen and (max-width: 600px) {
-            img {
-        width: 50%;
-    }
+img {
+    width: 50%;
+}
 
-    input, #calculate, #clear {
-        width: 80%;
-        margin-top: 5%;
-    }
+input, #calculate, #clear {
+    width: 80%;
+    margin-top: 5%;
+}
 }
 
     </style>
