@@ -12,6 +12,19 @@
     background-color: #235534;
     color: #FFFFFF;
 }
+@media screen and (max-width: 576px) {
+  /* CSS rules for mobile devices */
+
+  /* For example, you could change the font size to be larger or smaller on mobile devices */
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  /* Or, you could change the width of the input fields to be narrower on mobile devices */
+  input {
+    width: 75px;
+  }
+}
 
 img {
     margin-top: 2%;
