@@ -128,14 +128,14 @@ input {
     <form method="post">
         <div class="form">
             Date of Birth:
-            <input type="text" name="birth-date" required="required" pattern="\d{1,2}" placeholder="dd" title="Please enter a valid day (1-31)">&nbsp&nbsp - &nbsp
-            <input type="text" name="birth-month" required="required" pattern="\d{1,2}" placeholder="mm" title="Please enter a valid month (1-12)">&nbsp&nbsp - &nbsp
+            <input type="text" name="birth-date" required="required" pattern="\d{1,2}" placeholder="dd" title="Please enter a valid day (1-31)">&nbsp&nbsp  &nbsp
+            <input type="text" name="birth-month" required="required" pattern="\d{1,2}" placeholder="mm" title="Please enter a valid month (1-12)">&nbsp&nbsp  &nbsp
             <input type="text" name="birth-year" required="required" pattern="\d{4}" placeholder="yyyy" title="Please enter a valid year (e.g., 1990)">&nbsp&nbsp &nbsp
 
             <br><br>
             Today's Date:
-            <input type="text" id="date" disabled>&nbsp&nbsp - &nbsp
-            <input type="text" id="month" disabled>&nbsp&nbsp - &nbsp
+            <input type="text" id="date" disabled>&nbsp&nbsp  &nbsp
+            <input type="text" id="month" disabled>&nbsp&nbsp  &nbsp
             <input type="text" id="year" disabled>&nbsp&nbsp &nbsp
             <br><br><br>
             <form method="post">
